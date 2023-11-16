@@ -1,0 +1,12 @@
+{
+  "forms": [
+    {
+      "name": "MyForm",
+      "fields": {
+      "date": "invalid-date",
+      "email": "invalid-email",
+      "phone": "invalid-phone",
+      "text": "some text"
+      }}
+  ]
+}
